@@ -1,5 +1,9 @@
 {
   "dependencies": {
     "react-youtube": "^10.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "react-scripts start"
   }
 }
